@@ -645,7 +645,7 @@ body {
     display: grid;
 
     grid-template-columns:
-        repeat(3, 1fr);
+        repeat(2, minmax(0, 1fr));
 
     gap: 25px;
 }
@@ -776,6 +776,14 @@ body {
 
 .project-links a:hover {
     color: var(--secondary);
+}
+
+.project-deployment {
+    color: var(--muted);
+    font-size: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
 }
 
 
