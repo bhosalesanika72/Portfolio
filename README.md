@@ -1,24 +1,16 @@
 # Sanika Bhosale — Portfolio
 
-A responsive, single-page portfolio built with HTML, CSS, and vanilla JavaScript.
+Responsive portfolio built with HTML, CSS and vanilla JavaScript.
+
+## Featured projects
+- Travel Agency Website — HTML, CSS and JavaScript.
+- Placement Management System — MERN full-stack campus placement application.
+- PrivateDocs AI — privacy-focused AI document project.
 
 ## Files
-- `index.html` — portfolio content and sections
+- `index.html` — portfolio content
 - `style.css` — responsive styling
 - `script.js` — mobile navigation and footer year
-- `assets/resume.pdf` — resume download
+- `assets/resume.pdf` — downloadable resume
 
-## Run locally
-Open `index.html` in a browser.
-
-## Publish with GitHub Pages
-1. Extract this ZIP.
-2. Open your `Portfolio` GitHub repository.
-3. Replace the existing website files with the files from this folder. Keep the `assets` folder.
-4. Commit and push the changes to the `main` branch.
-5. Wait a few minutes, then refresh your GitHub Pages website.
-
-## Before publishing
-- Add your actual email and phone number if you want them displayed.
-- Replace the GitHub link in the Travel Agency project card with that project's own repository URL, if you have one.
-- The resume button downloads `assets/resume.pdf`.
+Upload all files and the `assets` folder to the root of the `Portfolio` repository, then commit to the branch configured for GitHub Pages.
